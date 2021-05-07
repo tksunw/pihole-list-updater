@@ -1,3 +1,5 @@
+Learning powershell.  The challenge here was to download a list of urls that contain decently curated (mostly) sources for hostnames to blocklist for various reasons (malware, ads, spam, crypto-mining, etc)
+
 # pihole-list-updater
 Powershell scripts to manage Pi-Hole's block and allow lists using public curated sources
 
@@ -9,3 +11,6 @@ Powershell scripts to manage Pi-Hole's block and allow lists using public curate
 
 ## To-Do:
 * have the scripts directly update gravitydb rather than the older text file style of blocklist/allowlist
+
+## Note:
+* these scripts are as-is. :)
